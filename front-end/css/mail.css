@@ -1,0 +1,18 @@
+#app {
+    height: inherit;
+}
+.logo {
+    text-align: center;
+}
+.logo .img {
+    width: 200px;height: 100px;
+}
+.searchBox {
+    text-align: center;
+}
+.searchBox .searchText {
+    width: 300px;height: 35px;
+}
+#graph{
+    height: 100%;
+}
